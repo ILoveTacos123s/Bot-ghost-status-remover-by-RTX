@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Forbidden","Helping Orders"];
+const statusMessages = ["Watching GhostVal","Genning Keys"];
 
 
 let currentIndex = 0;
