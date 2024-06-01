@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🔗 discord.gg/mintyaim","🔥 Minty AIM On Top"];
+const statusMessages = ["ColorSPEED","ColorSPEED"];
 
 
 let currentIndex = 0;
