@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ColorSPEED","ColorSPEED"];
+const statusMessages = ["Pyro Cheats","Pyro Cheats"];
 
 
 let currentIndex = 0;
