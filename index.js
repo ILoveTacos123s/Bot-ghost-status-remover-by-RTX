@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Pyro Cheats","Pyro Cheats"];
+const statusMessages = ["Watching Aurora","Watching Aurora"];
 
 
 let currentIndex = 0;
