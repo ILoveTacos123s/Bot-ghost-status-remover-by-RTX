@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Cs2 Market","Cs2 Market"];
+const statusMessages = ["🔗 .gg/stardev","🚀 Made By StarDevs"];
 
 
 let currentIndex = 0;
