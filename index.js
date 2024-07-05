@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🔗 .gg/stardev","🚀 Made By StarDevs"];
+const statusMessages = ["🎫 Quick Tickets! ","🚀 Made By Bezziwtf!"];
 
 
 let currentIndex = 0;
